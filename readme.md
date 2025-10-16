@@ -54,7 +54,7 @@ Before running the project, create a MySQL database and table.
 
 **Database Name:**
 ```
-task_scheduler_db
+Final_db
 ```
 
 **Table Structure:**
